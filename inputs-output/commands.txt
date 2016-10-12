@@ -1,0 +1,8 @@
+list;
+search aysun;
+process 2;
+list;
+process all;
+list;
+show logs;             
+
